@@ -1,6 +1,7 @@
 ## Overview
 Sawyer is a single-arm robot intended for working in industrial settings or alongside humans. 
 We used various strategies taught in Berkeley's Introduction to Robotics course to allow Sawyer to analyze a maze on a whiteboard before drawing the solution on the same whiteboard. 
+You may find detailed description of the project at https://gkimball1.github.io/maze-bot/.
 
 ### Goal
 Sawyer should precisely and accurately produce and draw a solution to a maze on a whiteboard. 
